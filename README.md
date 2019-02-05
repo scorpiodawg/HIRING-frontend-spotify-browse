@@ -5,7 +5,7 @@
 Spotify has a catalog of all its music available on the web and accessible to any developer with an API key. As a developer
 with front-end skills, your challenge is to build a _Spotify catalog component_ using its publicly available 
 [APIs](https://developer.spotify.com/documentation/web-api/) (BETA API reference is 
-[here](https://developer.spotify.com/documentation/web-api/reference-beta/)) and provide the following core 
+[here](https://developer.spotify.com/documentation/web-api/reference-beta/) and API auth examples are [here](https://github.com/spotify/web-api-auth-examples)) and provide the following core 
 functionality:
 
 * The component should be easily embeddable in a web app
@@ -22,8 +22,6 @@ functionality:
 Once you have the component ready, you will then build a simple "Hello world"-style web page or app that hosts
 this component to demonstrate its usage. Think of this as a test app you are building so that another consumer
 of your component (say, a developer on a partner team) gets a sense of its usage.
-
-_TBD: a sample hello world app screen shot?_
 
 ## Submission Notes
 
@@ -42,11 +40,10 @@ provide you with a test account for you to use as well -- just ask!
   as an outside collaborator. We will email you our Github id(s) for this purpose. Do let us know if this is 
   confusing or if you have questions/concerns.
 * Please write self-documenting code. The repository must include all pieces that are reasonably required for an
-  understanding of how the software can be built, setup, and run.
+  understanding of how the software can be **built, setup, and run**.
 * Include a `README` with the following:
   * what major design decisions did you have to make
   * why did you choose the framework you chose
-  * a working [cURL](https://curl.haxx.se) command to hit your app
   * a references section listing any _significant_ resources used during development (StackOverflow questions,
     articles, books, etc. You do not need to include links to questions about language syntax, for e.g.)
     
