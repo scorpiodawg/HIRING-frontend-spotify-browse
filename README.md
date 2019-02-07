@@ -1,4 +1,4 @@
-# [DRAFT] Spotify Browser Component
+# Spotify Browser Component
 
 ## Problem Statement
 
