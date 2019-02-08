@@ -44,6 +44,7 @@ provide you with a test account for you to use as well -- just ask!
 * Include a `README` with the following:
   * what major design decisions did you have to make
   * why did you choose the framework you chose
+  * what, if anything, additional you would do to make your component "production-ready"
   * a references section listing any _significant_ resources used during development (StackOverflow questions,
     articles, books, etc. You do not need to include links to questions about language syntax, for e.g.)
     
