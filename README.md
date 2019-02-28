@@ -19,9 +19,10 @@ functionality:
   icons representing each result using a suitable image based on the `type` -- for instance, an artist's image
   if the item is an artist
 
-Once you have the component ready, you will then build a simple "Hello world"-style web page or app that hosts
-this component to demonstrate its usage. Think of this as a test app you are building so that another consumer
-of your component (say, a developer on a partner team) gets a sense of its usage.
+Once you have the component ready, you will then build a very simple "Hello world"-style web page or app that hosts
+this component to demonstrate its usage. The app itself need not be pretty or complex - you may think of this as a
+test app you are building so that another consumer of your component (say, a developer on a partner team) gets a 
+solid sense of its usage.
 
 ## Submission Notes
 
@@ -31,8 +32,11 @@ long as you can justify their use. If you have any doubts as to whether your cho
 review, please contact us ahead of time. We can be reasonable :)
 
 ### Spotify Account
-Feel free to use your own Spotify account or create one for this purpose. However, we are more than happy to
-provide you with a test account for you to use as well -- just ask!
+Feel free to use your own Spotify account or create one for this purpose. 
+
+However, we are more than happy to provide you with a test account for you to use as well -- just ask! If you
+use this account, please use the Spotify Developer app named `Mason Test - Spotify Search Component` from the
+[developer dashboard](https://developer.spotify.com/dashboard/applications).
 
 ### Implementation
 
