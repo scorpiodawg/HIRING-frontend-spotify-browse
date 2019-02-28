@@ -47,5 +47,11 @@ provide you with a test account for you to use as well -- just ask!
   * what, if anything, additional you would do to make your component "production-ready"
   * a references section listing any _significant_ resources used during development (StackOverflow questions,
     articles, books, etc. You do not need to include links to questions about language syntax, for e.g.)
-    
+
+### Timing
+We expect this project to take approximately 2-4 hours of an engineer's time. However, everyone is different so please treat 
+these numbers as suggestions. If you find yourself blocked, or stuck spending inordinate amounts of time in a specific
+area, it might be best to reach out to us -- we want to be respectful of your time and it is our job to ensure you have a
+pleasant experience.
+
 **We look forward to seeing your work!**
