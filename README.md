@@ -54,4 +54,11 @@ these numbers as suggestions. If you find yourself blocked, or stuck spending in
 area, it might be best to reach out to us -- we want to be respectful of your time and it is our job to ensure you have a
 pleasant experience.
 
+## Resources
+
+* Spotify [developer examples and libraries](https://developer.spotify.com/documentation/web-api/libraries/)
+* Spotify Web API [reference](https://developer.spotify.com/documentation/web-api/)
+  * [Beta version](https://developer.spotify.com/documentation/web-api/reference-beta/), looks nicer
+
+
 **We look forward to seeing your work!**
