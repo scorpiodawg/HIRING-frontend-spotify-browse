@@ -24,7 +24,7 @@ this component to demonstrate its usage. The app itself need not be pretty or co
 test app you are building so that another consumer of your component (say, a developer on a partner team) gets a 
 solid sense of its usage.
 
-## Submission Notes
+## Notes
 
 ### Framework
 You can choose to build this using either vanilla JavaScript, JQuery, or React.js. Other frameworks are OK, as
@@ -38,7 +38,7 @@ However, we are more than happy to provide you with a test account for you to us
 use this account, please use the Spotify Developer app named `Mason Test - Spotify Search Component` from the
 [developer dashboard](https://developer.spotify.com/dashboard/applications).
 
-### Implementation
+### Submissio
 
 * Fork this repo to your own user space, make it private (now possible with free accounts as well), and add one of us 
   as an outside collaborator. We will email you our Github id(s) for this purpose. Do let us know if this is 
